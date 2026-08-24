@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="eportfolio.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
